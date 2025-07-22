@@ -1,6 +1,6 @@
 Welcome!
 ============
-Welcome to my notes on the Xiaomi f21 Pro. There is a real lack of resource surrounding this topic and so I thought I would create a more user friendly guide on how to install Dumbdroid on the f21 pro including links to all the resources needed.
+Welcome to my notes on the Xiaomi f21 Pro.
 
 
 Installing Dumbdroid ~ _Milk's Notes_ ~
